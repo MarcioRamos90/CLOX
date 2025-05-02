@@ -1,1 +1,1 @@
-gcc .\main.c .\chunk.c .\memory.c .\debug.c -o .\build\clox
+gcc .\main.c .\value.c .\chunk.c .\memory.c .\debug.c -o .\build\clox
